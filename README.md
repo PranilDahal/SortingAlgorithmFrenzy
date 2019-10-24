@@ -3,8 +3,8 @@ Sorting Algorithms Tutorials by **Wayssian Nepal**
 
 Follow me on social media for more tutorials:
 
-**[Instagram](instagram.com/wayssian)**
+**[Instagram](https://www.instagram.com/wayssian)**
 
-**[Facebook](facebook.com/wayssian)**
+**[Facebook](https://www.facebook.com/wayssian)**
 
-**[Twitter](twitter.com/wayssian)**
+**[Twitter](https://www.twitter.com/wayssian)**
