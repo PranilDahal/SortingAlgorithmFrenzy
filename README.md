@@ -1,6 +1,10 @@
 # Sorting Algorithm Frenzy
 Sorting Algorithms Tutorials by **Wayssian Nepal**
 
+Code Written in **Python**
+
+- **Quick Sort**
+
 Follow me on social media for more tutorials:
 
 **[Instagram](https://www.instagram.com/wayssian)**
