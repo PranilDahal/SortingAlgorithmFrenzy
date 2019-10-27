@@ -4,6 +4,7 @@ Sorting Algorithms Tutorials by **Wayssian Nepal**
 Code Written in **Python**
 
 - **Quick Sort**
+- **Bubble Sort**
 
 Follow me on social media for more tutorials:
 
